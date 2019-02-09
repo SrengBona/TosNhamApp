@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">TosNhamApp</string>
+    <string name="app_name">TosnhamApp</string>
+    <string name="fb_app_id">405465523555676</string>
+    <string name="account_kit_client_token">bf5d85429b0e1f289e772a0fb260ca62</string>
+    <string name="ak_login_protocol_scheme">akbf5d85429b0e1f289e772a0fb260ca62</string>
 </resources>
